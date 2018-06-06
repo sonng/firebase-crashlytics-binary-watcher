@@ -1,0 +1,1 @@
+# firebase-crashlytics-binary-watcher
